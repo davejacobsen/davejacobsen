@@ -4,7 +4,7 @@ Hi 👋 My name is Dave Jacobsen
 iOS Developer
 -------------
 
-*   🌍  I'm based in Tennessee
+*   🌍  I'm based in Nashville
 *   🚀  I'm currently working on [Purple Sector](http://apps.apple.com/us/app/purple-sector/id1635843325)
 
                  
